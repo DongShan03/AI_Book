@@ -1,0 +1,5 @@
+[2022-11-02 23:31:04,958] TRAIN Iter 20: lr = 0.499967,	loss = 10.120824,	Top-1 err = 0.999219,	Top-5 err = 0.993945,	data_time = 0.012992,	train_time = 34.812841
+[2022-11-02 23:42:13,413] TRAIN Iter 40: lr = 0.499933,	loss = 7.109609,	Top-1 err = 0.997656,	Top-5 err = 0.991602,	data_time = 0.014020,	train_time = 33.422664
+[2022-11-02 23:51:51,387] TRAIN Iter 60: lr = 0.499900,	loss = 6.891001,	Top-1 err = 0.998828,	Top-5 err = 0.991211,	data_time = 0.014025,	train_time = 28.898659
+[2022-11-03 00:01:31,359] TRAIN Iter 80: lr = 0.499867,	loss = 6.896277,	Top-1 err = 0.995703,	Top-5 err = 0.988086,	data_time = 0.013995,	train_time = 28.998558
+[2022-11-03 00:11:09,262] TRAIN Iter 100: lr = 0.499833,	loss = 6.888883,	Top-1 err = 0.996094,	Top-5 err = 0.987500,	data_time = 0.013992,	train_time = 28.894973
